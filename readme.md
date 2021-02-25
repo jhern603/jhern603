@@ -18,7 +18,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width = "200px" src="https://shields.io/badge/editor-java-green?logo=visual-studio-code&style=for-the-badge" />
+![](https://shields.io/badge/editor-java-green?logo=visual-studio-code&style=for-the-badge")
 <br />
 <br />
 <br />
