@@ -18,7 +18,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width = "200px" src="https://i.imgur.com/7bKlOkX.png" />
+![]<img align="left" alt="Visual Studio Code" width = "200px" src="https://i.imgur.com/7bKlOkX.png" />
 <br />
 <br />
 <br />
