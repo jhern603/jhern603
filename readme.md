@@ -18,15 +18,15 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/7bKlOkX.png" />
-<img align="left" alt="HTML5" width="26px" src="https://i.imgur.com/an0cMvL.png" />
-<img align="left" alt="CSS3" width="26px" src="https://i.imgur.com/otMFJyc.png" />
-<img align="left" alt="Java" width="26px" src="https://i.imgur.com/Lf0NyFp.png" />
-<img align="left" alt="Python" width="26px" src="https://i.imgur.com/VyuGg8X.png" />
-<img align="left" alt="React" width="26px" src="https://i.imgur.com/dIJffYm.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://i.imgur.com/CfvOrGz.png" />
-<img align="left" alt="Git" width="26px" src="https://i.imgur.com/xUbtuJG.png" />
-<img align="left" alt="GitHub" width="26px" src="https://i.imgur.com/b70PRlx.png" />
+<img align="left" alt="Visual Studio Code" src="https://i.imgur.com/7bKlOkX.png" />
+<img align="left" alt="HTML5" src="https://i.imgur.com/an0cMvL.png" />
+<img align="left" alt="CSS3" src="https://i.imgur.com/otMFJyc.png" />
+<img align="left" alt="Java" src="https://i.imgur.com/Lf0NyFp.png" />
+<img align="left" alt="Python" src="https://i.imgur.com/VyuGg8X.png" />
+<img align="left" alt="React" src="https://i.imgur.com/dIJffYm.png" />
+<img align="left" alt="JavaScript" src="https://i.imgur.com/CfvOrGz.png" />
+<img align="left" alt="Git" src="https://i.imgur.com/xUbtuJG.png" />
+<img align="left" alt="GitHub" src="https://i.imgur.com/b70PRlx.png" />
 
 
 <details>
