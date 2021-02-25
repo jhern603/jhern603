@@ -31,13 +31,7 @@
 <img align="left" alt="GitHub" width = "200px" src="https://shields.io/badge/tool-github-green?logo=github&style=for-the-badge" />
 
 
-<details>
-  <br />
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Jose's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jhern603&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://jhern603.github.io/portfolio
 [instagram]: https://www.instagram.com/jhernandez554/
