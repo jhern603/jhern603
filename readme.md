@@ -1,7 +1,7 @@
 
 ### Languages and Tools:
 <!--Editors-->
-<img display="display:inline-block;"alt="Visual Studio Code" width = "200px" src="https://shields.io/badge/editor-java-green?logo=visual-studio-code&style=for-the-badge" />
+<img style="display:inline-block;"alt="Visual Studio Code" width = "200px" src="https://shields.io/badge/editor-java-green?logo=visual-studio-code&style=for-the-badge" />
 <!--Programming Languages-->
 <img alt="HTML5" width = "200px" src="https://shields.io/badge/code-html-green?logo=html5&style=for-the-badge" />
 <img alt="CSS3" width = "200px" src="https://shields.io/badge/code-css-green?logo=css3&style=for-the-badge" />
