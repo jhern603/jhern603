@@ -18,23 +18,17 @@
 
 ### Languages and Tools:
 <!--Editors-->
-<img align="left" alt="Visual Studio Code" width = "200px" src="https://shields.io/badge/editor-java-green?logo=visual-studio-code&style=for-the-badge" />
-<br />
-<br />
-<br />
+<img  alt="Visual Studio Code" width = "200px" src="https://shields.io/badge/editor-java-green?logo=visual-studio-code&style=for-the-badge" />
 <!--Programming Languages-->
-<img align="left" alt="HTML5" width = "200px" src="https://shields.io/badge/code-html-green?logo=html5&style=for-the-badge" />
-<img align="left" alt="CSS3" width = "200px" src="https://shields.io/badge/code-css-green?logo=css3&style=for-the-badge" />
-<img align="left" alt="Java" width = "200px" src="https://shields.io/badge/code-java-green?logo=java&style=for-the-badge" />
-<img align="left" alt="Python" width = "200px" src="https://shields.io/badge/code-Python-green?logo=python&style=for-the-badge" />
-<br />
-<br />
-<br />
+<img  alt="HTML5" width = "200px" src="https://shields.io/badge/code-html-green?logo=html5&style=for-the-badge" />
+<img  alt="CSS3" width = "200px" src="https://shields.io/badge/code-css-green?logo=css3&style=for-the-badge" />
+<img  alt="Java" width = "200px" src="https://shields.io/badge/code-java-green?logo=java&style=for-the-badge" />
+<img  alt="Python" width = "200px" src="https://shields.io/badge/code-Python-green?logo=python&style=for-the-badge" />
 <!--Tools-->
-<img align="left" alt="React" width = "200px" src="https://shields.io/badge/code-react-green?logo=react&style=for-the-badge" />
-<img align="left" alt="JavaScript" width = "200px" src="https://shields.io/badge/code-javascript-green?logo=javascript&style=for-the-badge" />
-<img align="left" alt="Git" width = "200px" src="https://shields.io/badge/tool-git-green?logo=git&style=for-the-badge" />
-<img align="left" alt="GitHub" width = "200px" src="https://shields.io/badge/tool-github-green?logo=github&style=for-the-badge" />
+<img  alt="React" width = "200px" src="https://shields.io/badge/code-react-green?logo=react&style=for-the-badge" />
+<img  alt="JavaScript" width = "200px" src="https://shields.io/badge/code-javascript-green?logo=javascript&style=for-the-badge" />
+<img  alt="Git" width = "200px" src="https://shields.io/badge/tool-git-green?logo=git&style=for-the-badge" />
+<img  alt="GitHub" width = "200px" src="https://shields.io/badge/tool-github-green?logo=github&style=for-the-badge" />
 
 
 <details>
