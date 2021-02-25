@@ -18,15 +18,15 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width = "80px" src="https://i.imgur.com/7bKlOkX.png" />
-<img align="left" alt="HTML5" width = "80px" src="https://i.imgur.com/an0cMvL.png" />
-<img align="left" alt="CSS3" width = "80px" src="https://i.imgur.com/otMFJyc.png" />
-<img align="left" alt="Java" width = "80px" src="https://i.imgur.com/Lf0NyFp.png" />
-<img align="left" alt="Python" width = "80px" src="https://i.imgur.com/VyuGg8X.png" />
-<img align="left" alt="React" width = "80px" src="https://i.imgur.com/dIJffYm.png" />
-<img align="left" alt="JavaScript" width = "80px" src="https://i.imgur.com/CfvOrGz.png" />
-<img align="left" alt="Git" width = "80px" src="https://i.imgur.com/xUbtuJG.png" />
-<img align="left" alt="GitHub" width = "80px" src="https://i.imgur.com/b70PRlx.png" />
+<img align="left" alt="Visual Studio Code" width = "100px" src="https://i.imgur.com/7bKlOkX.png" />
+<img align="left" alt="HTML5" width = "100px" src="https://i.imgur.com/an0cMvL.png" />
+<img align="left" alt="CSS3" width = "100px" src="https://i.imgur.com/otMFJyc.png" />
+<img align="left" alt="Java" width = "100px" src="https://i.imgur.com/Lf0NyFp.png" />
+<img align="left" alt="Python" width = "100px" src="https://i.imgur.com/VyuGg8X.png" />
+<img align="left" alt="React" width = "100px" src="https://i.imgur.com/dIJffYm.png" />
+<img align="left" alt="JavaScript" width = "100px" src="https://i.imgur.com/CfvOrGz.png" />
+<img align="left" alt="Git" width = "100px" src="https://i.imgur.com/xUbtuJG.png" />
+<img align="left" alt="GitHub" width = "100px" src="https://i.imgur.com/b70PRlx.png" />
 
 
 <details>
