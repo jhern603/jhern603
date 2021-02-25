@@ -18,17 +18,17 @@
 
 ### Languages and Tools:
 <!--Editors-->
-<img  alt="Visual Studio Code" width = "200px" src="https://shields.io/badge/editor-java-green?logo=visual-studio-code&style=for-the-badge" />
+<img style="float: left; margin-right:10px;" alt="Visual Studio Code" width = "200px" src="https://shields.io/badge/editor-java-green?logo=visual-studio-code&style=for-the-badge" />
 <!--Programming Languages-->
-<img  alt="HTML5" width = "200px" src="https://shields.io/badge/code-html-green?logo=html5&style=for-the-badge" />
-<img  alt="CSS3" width = "200px" src="https://shields.io/badge/code-css-green?logo=css3&style=for-the-badge" />
-<img  alt="Java" width = "200px" src="https://shields.io/badge/code-java-green?logo=java&style=for-the-badge" />
-<img  alt="Python" width = "200px" src="https://shields.io/badge/code-Python-green?logo=python&style=for-the-badge" />
+<img style="float: left; margin-right:10px;" alt="HTML5" width = "200px" src="https://shields.io/badge/code-html-green?logo=html5&style=for-the-badge" />
+<img style="float: left; margin-right:10px;" alt="CSS3" width = "200px" src="https://shields.io/badge/code-css-green?logo=css3&style=for-the-badge" />
+<img style="float: left; margin-right:10px;" alt="Java" width = "200px" src="https://shields.io/badge/code-java-green?logo=java&style=for-the-badge" />
+<img style="float: left; margin-right:10px;" alt="Python" width = "200px" src="https://shields.io/badge/code-Python-green?logo=python&style=for-the-badge" />
 <!--Tools-->
-<img  alt="React" width = "200px" src="https://shields.io/badge/code-react-green?logo=react&style=for-the-badge" />
-<img  alt="JavaScript" width = "200px" src="https://shields.io/badge/code-javascript-green?logo=javascript&style=for-the-badge" />
-<img  alt="Git" width = "200px" src="https://shields.io/badge/tool-git-green?logo=git&style=for-the-badge" />
-<img  alt="GitHub" width = "200px" src="https://shields.io/badge/tool-github-green?logo=github&style=for-the-badge" />
+<img style="float: left; margin-right:10px;" alt="React" width = "200px" src="https://shields.io/badge/code-react-green?logo=react&style=for-the-badge" />
+<img style="float: left; margin-right:10px;" alt="JavaScript" width = "200px" src="https://shields.io/badge/code-javascript-green?logo=javascript&style=for-the-badge" />
+<img style="float: left; margin-right:10px;" alt="Git" width = "200px" src="https://shields.io/badge/tool-git-green?logo=git&style=for-the-badge" />
+<img style="float: left; margin-right:10px;" alt="GitHub" width = "200px" src="https://shields.io/badge/tool-github-green?logo=github&style=for-the-badge" />
 
 
 <details>
