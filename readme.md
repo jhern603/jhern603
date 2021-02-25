@@ -18,13 +18,13 @@
 
 ### Languages and Tools:
 
-![]<img align="left" alt="Visual Studio Code" width = "200px" src="https://i.imgur.com/7bKlOkX.png" />
+<img align="left" alt="Visual Studio Code" width = "200px" src="https://i.imgur.com/7bKlOkX.png" />
 <br />
 <br />
 <br />
 <img align="left" alt="HTML5" width = "200px" src="https://i.imgur.com/an0cMvL.png" />
 <img align="left" alt="CSS3" width = "200px" src="https://i.imgur.com/otMFJyc.png" />
-<img align="left" alt="Java" width = "200px" src="https://i.imgur.com/Lf0NyFp.png" />
+<img align="left" alt="Java" width = "200px" src="https://shields.io/badge/code-java-green?logo=java&style=for-the-badge" />
 <img align="left" alt="Python" width = "200px" src="https://i.imgur.com/VyuGg8X.png" />
 <br />
 <br />
