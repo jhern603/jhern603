@@ -2,16 +2,17 @@
 
 ## I'm a student developer, and currently serving in the Army!
 
-- 🌱 I’m currently learning everything 🤔
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Land an exploratory internship and finish work on a personal project
-- ⚡ Fun fact: I know how to solve Rubik's cubes
+- 🌱 I’m looking to learn more about web-dev and know just enough to make a killer calculator 🧮
+- 👯 I'm a flight enthusiast and like to get on Microsoft Flight sim in my spare time
+- 🥅 2021 Goals: Contribute to an open-source project and expand my skills as a developer
+- ⚡ Fun fact: I know how to solve Rubik's cubes and am a professional meme conesseuir
 
 ### Connect with me:
 
-<!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
+[<img align="left" alt="Jose | Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Jose | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Jose | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 
 <br />
 
@@ -35,7 +36,7 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
+[website]: https://jhern603.github.io/portfolio
 [instagram]: https://www.instagram.com/jhernandez554/
 [linkedin]: https://www.linkedin.com/in/jose-hernandez-b587a3114/
 [webdevplaylist]: #
