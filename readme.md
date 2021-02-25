@@ -23,8 +23,8 @@
 <img align="left" alt="CSS3" width = "200px" src="https://i.imgur.com/otMFJyc.png" />
 <img align="left" alt="Java" width = "200px" src="https://i.imgur.com/Lf0NyFp.png" />
 <img align="left" alt="Python" width = "200px" src="https://i.imgur.com/VyuGg8X.png" />
-
-
+<br />
+<br />
 <br />
 <img align="left" alt="React" width = "200px" src="https://i.imgur.com/dIJffYm.png" />
 <img align="left" alt="JavaScript" width = "200px" src="https://i.imgur.com/CfvOrGz.png" />
