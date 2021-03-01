@@ -24,10 +24,10 @@
 ![](https://shields.io/badge/code-css-green?logo=css3&style=for-the-badge)
 ![](https://shields.io/badge/code-java-green?logo=java&style=for-the-badge)
 ![](https://shields.io/badge/code-Python-green?logo=python&style=for-the-badge)
-
-<!--Tools-->
 ![](https://shields.io/badge/code-react-green?logo=react&style=for-the-badge)
 ![](https://shields.io/badge/code-javascript-green?logo=javascript&style=for-the-badge)
+
+<!--Tools-->
 ![](https://shields.io/badge/tool-git-green?logo=git&style=for-the-badge)
 ![](https://shields.io/badge/tool-github-green?logo=github&style=for-the-badge)
 
