@@ -40,7 +40,7 @@
 </details>
 
 
-[website]: https://jhern603.github.io/portfolio
+[website]: https://jhern603.github.io/
 [instagram]: https://www.instagram.com/jhernandez554/
 [linkedin]: https://www.linkedin.com/in/jose-hernandez-b587a3114/
 [webdevplaylist]: #
