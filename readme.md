@@ -4,7 +4,7 @@
 
 - 🌱 I’m looking to learn more about web-dev and know just enough to make a killer calculator 🧮
 - 👯 I'm a flight enthusiast and like to get on Microsoft Flight sim in my spare time
-- 🥅 2021 Goals: Contribute to an open-source project and expand my skills as a developer
+- 🥅 Continuous Goals: Expand my skills as a developer
 - ⚡ Fun fact: I know how to solve Rubik's cubes and am a professional meme conesseuir
 
 ### Connect with me:
