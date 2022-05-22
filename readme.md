@@ -6,6 +6,7 @@
 - 👯 I'm a flight enthusiast and like to get on Microsoft Flight sim in my spare time
 - 🥅 Continuous Goals: Expand my skills as a developer
 - ⚡ Fun fact: I know how to solve Rubik's cubes and am a professional meme conesseuir
+- 🏢 Returning intern at Oracle Cloud Infrastructure
 
 ### Connect with me:
 
@@ -40,7 +41,7 @@
 </details>
 
 
-[website]: https://jhern603.github.io/
+[website]: https://josehernandez.dev/
 [instagram]: https://www.instagram.com/jhernandez554/
 [linkedin]: https://www.linkedin.com/in/jose-hernandez-b587a3114/
 [webdevplaylist]: #
