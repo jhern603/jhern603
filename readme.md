@@ -1,12 +1,10 @@
 ### Hello! I'm Jose Hernandez 👋
 
-## I'm a student developer, and currently serving in the Army!
+## Who I Am
+AI enablement, security practitioner, and software engineer by day — gamer, photographer and regular human also by day... and night
 
-- 🌱 I’m looking to learn more about web-dev and know just enough to make a killer calculator 🧮
 - 👯 I'm a flight enthusiast and like to get on Microsoft Flight sim in my spare time
-- 🥅 Continuous Goals: Expand my skills as a developer
 - ⚡ Fun fact: I know how to solve Rubik's cubes and am a professional meme conesseuir
-- 🏢 Returning intern at Oracle Cloud Infrastructure
 
 ### Connect with me:
 
@@ -43,5 +41,5 @@
 
 [website]: https://josehernandez.dev/
 [instagram]: https://www.instagram.com/jhernandez554/
-[linkedin]: https://www.linkedin.com/in/jose-hernandez-b587a3114/
+[linkedin]: https://www.linkedin.com/in/jhern603
 [webdevplaylist]: #
